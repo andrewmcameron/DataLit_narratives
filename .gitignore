@@ -39,3 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 /.quarto/
+Centerlines-shp/
+*.zip
+__MACOSX/
+Zoning_Districts.*
