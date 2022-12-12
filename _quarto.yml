@@ -9,9 +9,14 @@ book:
   chapters:
     - index.qmd
     - narrative_BasicDataTypes.qmd
+    - narrative_DataContainers.qmd
     - narrative_Factors.qmd
+    - narrative_Tidyverse.qmd
     - narrative_Joins.qmd
+    - narratvive_Spatial.qmd
+    - narrative_Raster.qmd
     - narrative_Shapefiles.qmd
+  
   execute:
     echo: true
 
